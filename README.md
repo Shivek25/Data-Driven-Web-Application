@@ -15,9 +15,6 @@ Backend: Node.js, Express.js
 Libraries: CSV parsing library (e.g., csv-parser)
 
 
-**Open the application in your browser:
-Navigate to:** http://localhost:3000 
-
 **File Structure**
 index.html: The main HTML file containing the structure of the web application.
 styles.css: The CSS file for styling the web application.
